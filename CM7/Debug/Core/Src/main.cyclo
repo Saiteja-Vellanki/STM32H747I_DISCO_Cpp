@@ -1,0 +1,6 @@
+../Core/Src/main.cpp:72:5:int main()	9
+../Core/Src/main.cpp:149:6:void SystemClock_Config()	4
+../Core/Src/main.cpp:212:6:void PeriphCommonClock_Config()	2
+../Core/Src/main.cpp:239:13:void MX_USART1_UART_Init()	5
+../Core/Src/main.cpp:287:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:318:6:void Error_Handler()	1
